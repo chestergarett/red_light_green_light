@@ -1,0 +1,7 @@
+venv
+training
+testing
+outputs
+presentation
+.DS_Store
+yolov8n.pt
